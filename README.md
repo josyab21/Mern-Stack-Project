@@ -53,7 +53,7 @@ mern-ecommerce/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Tewodros01/MERN-STACK-PROJECT.git
+   git clone https://github.com/josyab21/Mern-Stack-Project.git
    ```
 
 2. **Install dependencies:**
